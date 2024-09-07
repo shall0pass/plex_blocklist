@@ -2,3 +2,6 @@
 #use in conjunction with https://github.com/Admin9705/plex1-blocklist
 0.0.0.0 encodes.transmit.live
 0.0.0.0 azv.adsrvr.org
+0.0.0.0 vod-content.plexvideos.com
+0.0.0.0 metadata.provider.plex.tv
+0.0.0.0 assets.springserve.com
