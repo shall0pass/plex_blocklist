@@ -1,3 +1,4 @@
 #PLEX Blocklist
+#use in conjunction with https://github.com/Admin9705/plex1-blocklist
 0.0.0.0 encodes.transmit.live
 0.0.0.0 azv.adsrvr.org
