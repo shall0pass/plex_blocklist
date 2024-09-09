@@ -5,3 +5,11 @@
 0.0.0.0 vod-content.plexvideos.com
 0.0.0.0 metadata.provider.plex.tv
 0.0.0.0 assets.springserve.com
+0.0.0.0 adstechtool.com
+0.0.0.0 enduser.adsrvr.org
+0.0.0.0 vod-content.plexvideos.com.cdn.cloudflare.net
+0.0.0.0 vod-content-cdn.plexvideos.com
+0.0.0.0 presentation-iad1.turn.com
+0.0.0.0 a-iad3.1rx.io
+0.0.0.0 trackedevt.1rx.io
+0.0.0.0 doh.dns.apple.com
